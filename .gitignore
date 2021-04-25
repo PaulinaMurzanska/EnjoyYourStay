@@ -1,4 +1,3 @@
 *.py[cod]
 .env
-*.sqlite*
-.mypy_cache/
+*.sqlite*git 
